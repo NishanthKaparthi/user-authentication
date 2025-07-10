@@ -1,2 +1,6 @@
+spring:
+  data:
+    mongodb:
+      uri: mongodb://localhost:27017/signup_database
 server:
-  port: 8081
+  port: 8080
